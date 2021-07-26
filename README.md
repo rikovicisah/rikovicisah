@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rikovicisah
 - 👀 I’m interested in flutter and python
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning flutter and python ML, AI
 - 📫 you can contact me on email : rikovicisah@gmail.com
 
 <!---
